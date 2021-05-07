@@ -66,6 +66,38 @@ export default {
       descriptions: [
         {
           id: "MLA741093357-1768858232",
+          text: `****************PELUCHE DE STITCH O ANGEL 30 CM *******************
+
+          AZUL Y ROSA
+          
+          
+          *Mide 30 cm real sentado
+          *Ancho de 27 cm
+          *Importado calidad original Disney
+          *Precio por cada uno
+          
+          
+          ZONA DE ENTREGA ONCE A 200 METROS DE SALIDA SUBTE B Y H
+          
+          
+          
+          SU CONSULTA NO MOLESTA
+          
+          ---------MODALIDADES DE ENTREGA:
+          - Hacemos envíos y entregas a través de Mercado Envíos a todo el país. El costo y tiempo del mismo lo podes calcular en la opción de Mercado Envíos (debajo del precio).
+          - Si realizas tu compra antes de las 15 hrs. y estás dentro de las zonas de cobertura, podes elegir envío rápido (FLEX) y el pedido te llega en el mismo día. Luego de ese horario, te llegará al día hábil siguiente. Si la compra la realizas durante el fin de semana, te llegará el día lunes, a menos que sea feriado en cuyo caso te llegará al día hábil siguiente. Las entregas se realizan hasta las 20 hrs. aproximadamente.
+          - Solo tenemos punto de retiro para las publicaciones que muestran esa opción. El retiro se realiza en DEPOSITO PARQUE CHACABUCO.
+          Por COVID-19 NO ESTAMOS EN LAS SUCURSALES DE ONCE/*
+          
+          MEDIOS DE PAGO:
+          - Aceptamos todos los medios de pagos permitidos a través de Mercado Pago.
+          - Efectivo a través de Pago Fácil, Rapipago, Provincia Pagos, Banelco o Link.
+          - Este canal de ventas tiene por objeto la venta al público, por esta razón las facturas serán emitidas con la clasificación de IVA CONSUMIDOR FINAL (Factura B).
+          
+          Cualquier duda estamos a disposición!
+          
+          
+          Peluches Olis Place`,
         },
       ],
       accepts_mercadopago: true,
